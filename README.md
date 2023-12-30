@@ -12,16 +12,16 @@
     - [x] Curso: Introdução à Blockchain
     - [x] Desafio de código: Desafios Básicos Javascript - Formação Web3
     - [x] Curso: Token Fungível
-    - [ ] Desafio de projeto: Criando o Seu Primeiro Token do Zero
+    - [x] Desafio de projeto: Criando o Seu Primeiro Token do Zero
     - [x] Curso: Os Famosos NFTs
-    - [ ] Desafio de projeto: Criando um NFT na Prática
+    - [x] Desafio de projeto: Criando um NFT na Prática
     - [x] Materiais Complementares - Blockchain e Tokens
-- [ ] Web3 e Descentralização
+- [x] Web3 e Descentralização
     - [x] Curso: Decentralized Autonomous Organizations (DAO)
     - [x] Curso: Decentralized Finance​ (DeFi)
     - [ ] Desafio de projeto: Criando uma DAO
     - [x] Materiais Complementares: Web3 e Descentralização
-- [ ] Metaverso e Mercado Web3
+- [x] Metaverso e Mercado Web3
     - [x] Introdução ao Metaverso
     - [x] Conhecendo o Mercado e Oportunidades Web3
     - [x] Materiais Complementares: Metaverso e Mercado Web3
